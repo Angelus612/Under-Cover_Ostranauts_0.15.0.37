@@ -1,10 +1,12 @@
+
 [
   {
-    "strName": "Under-Cover-Lite",
-    "strAuthor": "Angelus612",
-    "strModURL": "https://github.com/Angelus612/Under-Cover_Ostranauts_0.15.0.30",
-    "strGameVersion": "0.15.0.30",
-    "strModVersion": "1.0.0",
-    "strNotes": "Allows coveralls to be worn underneath EVA Suits (but not pressure suits due to clipping)."
+    "strName" : "Under-Cover-Lite",
+    "strAuthor" : "Angelus612",
+    "strModURL" : "https://github.com/Angelus612/Under-Cover_Ostranauts_0.15.0.30",
+    "strGameVersion" : "0.15.0.37",
+    "strModVersion"  : "1.1.0",
+    "strNotes"       : "Allows coveralls to be worn underneath EVA Suits (but not pressure suits due to clipping).",
+    "strWorkshopID"  : "3738765059"
   }
 ]
